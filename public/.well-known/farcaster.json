@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "EtherealPay",
+    "subtitle": "Built with Zara",
+    "description": "EtherealPay is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://aaecfd8a89674eb993eb3c87e1e7ae2f-9f3v.vercel.app",
+    "splashImageUrl": "https://aaecfd8a89674eb993eb3c87e1e7ae2f-9f3v.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://aaecfd8a89674eb993eb3c87e1e7ae2f-9f3v.vercel.app/image.png",
+    "tagline": "EtherealPay",
+    "screenshotUrls": [
+      "https://aaecfd8a89674eb993eb3c87e1e7ae2f-9f3v.vercel.app/screenshot.png",
+      "https://aaecfd8a89674eb993eb3c87e1e7ae2f-9f3v.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://aaecfd8a89674eb993eb3c87e1e7ae2f-9f3v.vercel.app/api/webhook"
+  }
+}
