@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJldGhlcmVhbHBheS5jb20ifQ",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "EtherealPay",
+    "homeUrl": "https://etherealpay.com",
+    "iconUrl": "https://etherealpay.com/icon.png",
+    "splashImageUrl": "https://etherealpay.com/splash.png",
+    "splashBackgroundColor": "#0a0f1c",
+    "webhookUrl": "https://etherealpay.com/api/webhook",
+    "subtitle": "AI Micro-transactions",
+    "description": "Monetize your AI with micro-transactions & automated revenue share. Create AI-powered microservices with pay-per-use billing on Base blockchain.",
+    "screenshotUrls": [
+      "https://etherealpay.com/screenshot1.png",
+      "https://etherealpay.com/screenshot2.png",
+      "https://etherealpay.com/screenshot3.png"
+    ],
+    "primaryCategory": "productivity",
+    "tags": ["ai", "payments", "blockchain", "microservices", "base"],
+    "heroImageUrl": "https://etherealpay.com/hero.png",
+    "tagline": "Monetize AI with micro-transactions",
+    "ogTitle": "EtherealPay - AI Micro-transactions Platform",
+    "ogDescription": "Create and monetize AI-powered microservices with automated revenue sharing on Base blockchain.",
+    "ogImageUrl": "https://etherealpay.com/og-image.png"
+  }
+}
